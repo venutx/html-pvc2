@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.privacy.com.br	TRUE	/	FALSE	1999999999	__cf_bm	SNc3LVxsTITxHd609CYIhQ7bDIN9mTPBW36p3_nYxpM-1731964082-1.0.1.1-j.F4rSsrPzLrH1TcEuGcodm1BOWJlLskG1Co0a9V4QuMFrQxa2Iy907UOvrFVyJU9jbDOZIMGohLUJy41V6srg
+privacy.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+
